@@ -1,0 +1,13 @@
+dlib
+opencv-python
+tensorflow
+keras
+pytube
+yt-dlp
+numpy
+pandas
+matplotlib
+imutils
+scikit-learn
+mediapipe
+tqdm
