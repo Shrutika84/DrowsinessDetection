@@ -21,6 +21,9 @@ The system leverages **Eye Aspect Ratio (EAR)** and **Mouth Aspect Ratio (MAR)**
 - **`docs/`** - Setup instructions, requirements, and documentation.
 
 ---
+## 🔗 Download Face Detection Model
+Due to file size limitations, download the `face_detection.dat` file manually from:
+👉 [Google Drive Link](https://drive.google.com/file/d/1-4MOU44SB_KR_6p8sMrJ_YBw6Q7_7bG-/view?usp=sharing)
 
 ## 🔧 Setup & Installation
 To get started, clone the repository and install dependencies:
