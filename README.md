@@ -16,8 +16,7 @@ The system leverages **Eye Aspect Ratio (EAR)** and **Mouth Aspect Ratio (MAR)**
 
 ## 📂 Project Structure
 - **`notebooks/`** - Contains the main Jupyter Notebook (`drowsiness_detection.ipynb`) with complete code.
-- **`model/`** - Trained deep learning model (`.h5` file).
-- **`data/`** - Input video, generated output (`.csv`), and face detection model (`.dat`).
+- **`data/`** - Input video, Trained deep learning model (`.h5` file), generated output (`.csv`), and face detection model (`.dat`).
 - **`docs/`** - Setup instructions, requirements, and documentation.
 
 ---
